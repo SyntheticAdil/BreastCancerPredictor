@@ -1,7 +1,7 @@
 # BreastCancerPredictor
 A beginner's insight to Deep Learning &amp; using it for the betterment of the world. 
 
-# Overview ofthe model 
+# Overview of the model 
 
 I began this project after learning a bit about Deep Learning & thought of using it to make a project which can detect breast cancer with a decent accuracy. 
 The way this model works is that, it takes dataset from the SKLearn library & using it, I created a Pandas dataframe for the easier comprehension of the dataset. After that, it was mainly the same 
