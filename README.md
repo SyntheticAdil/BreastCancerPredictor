@@ -5,7 +5,7 @@ A beginner's insight to Deep Learning &amp; using it for the betterment of the w
 
 I began this project after learning a bit about Deep Learning & thought of using it to make a project which can detect breast cancer with a decent accuracy. 
 The way this model works is that, it takes dataset from the SKLearn library & using it, I created a Pandas dataframe for the easier comprehension of the dataset. After that, it was mainly the same 
-machine learning process with load of Maths. Additionally, I found that using the normal dataset was giivng me low accuracies so I used the StandardScaler function to standardise my data for better 
+machine learning process with loads of Maths. Additionally, using the normal dataset was giving me low accuracies so I used the StandardScaler function to standardise my data for better 
 accuracies. After that I built a predective model & converted the values to labels.
 
 ##User Manual :
